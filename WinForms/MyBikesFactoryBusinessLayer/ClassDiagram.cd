@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyBikesFactoryBusinessLayer.Bike">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAAAAACEAAAAEABAAAAABCAEBAQAEIUgAAAJIAAA=</HashCode>
+      <FileName>Bike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikesFactoryBusinessLayer.User">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAgEAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikesFactoryBusinessLayer.RoadBike">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAABAAAAAQAA=</HashCode>
+      <FileName>RoadBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikesFactoryBusinessLayer.MountainBike">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAABACAAAAAgAAAAAAABAA=</HashCode>
+      <FileName>MountainBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyBikesFactoryBusinessLayer.Enums.BikeState">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\BikeState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikesFactoryBusinessLayer.Enums.BikeType">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Enums\BikeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikesFactoryBusinessLayer.Enums.SuspensionType">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Enums\SuspensionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
